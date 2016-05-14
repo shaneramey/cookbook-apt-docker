@@ -58,6 +58,7 @@ test builds (ie. release candidates).  Experimental is for experimental builds.
       utopic: true,  # Ubuntu 14.10
       vivid: true,   # Ubuntu 15.04
       wily: true,    # Ubuntu 15.10
+      xenial: true,    # Ubuntu 16.04
     }
     ```
 - Docker Main Repo

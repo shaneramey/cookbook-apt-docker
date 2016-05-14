@@ -13,6 +13,7 @@ platforms:
   - name: ubuntu-14.04
   # - name: ubuntu-14.10 # apt sources yield 404's
   - name: ubuntu-15.04
+  - name: ubuntu-16.04
 
 suites:
   - name: default
