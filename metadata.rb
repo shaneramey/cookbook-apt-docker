@@ -11,7 +11,7 @@ issues_url 'https://github.com/st-isidore-de-seville/cookbook-apt-docker/issues'
 
 recipe 'apt-docker::default', 'Installs/Configures apt Docker Vendor-Specific Repository'
 
-depends 'apt', '~> 3.0'
+depends 'apt', '~> 2.9'
 
 supports 'debian'
 supports 'ubuntu'
